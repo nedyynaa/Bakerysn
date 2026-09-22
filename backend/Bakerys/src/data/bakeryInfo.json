@@ -1,0 +1,11 @@
+{
+  "name": "Bakery",
+  "tagline": "Roti segar setiap hari untuk kebahagiaan keluarga anda",
+  "phone": "+62 812-1215-1800",
+  "instagram": "@bakery.id",
+  "address": "Jl. Angkasa 12, Jakarta",
+  "operatingHours": {
+    "weekdays": "Senin - Sabtu: 06.00 - 12.00",
+    "sunday": "Minggu: 09.00 - 15.00"
+  }
+}

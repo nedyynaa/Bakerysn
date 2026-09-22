@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Roti Cokelat",
+    "description": "Roti lembut dengan cokelat premium",
+    "price": 18000,
+    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Roti Keju",
+    "description": "Roti gurih dengan taburan keju pilihan",
+    "price": 16000,
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Roti Tawar Premium",
+    "description": "Lembut, empuk dan pas setiap waktu",
+    "price": 15000,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Roti Sosis",
+    "description": "Perpaduan roti lembut dan sosis berkualitas",
+    "price": 17000,
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?auto=format&fit=crop&w=500&q=80"
+  }
+]
