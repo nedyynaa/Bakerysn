@@ -1,16 +1,20 @@
 Web Bakery
 
+  Anggota Kelompok:
+    1. Nadine Bintang Kirana
+    2. Faathir Niwandra Adithia
+    3. Muhammad Razzan Augustyan
+    4. Fakhri Maulidin
+
+
 Deskripsi
   Bakery adalah penyedia olahan roti dan pastry segar berkualitas premium yang hadir untuk menemani setiap momen berharga 
   Anda. Kami percaya bahwa kebahagiaan dimulai dari sajian yang dibuat dengan hati. Seluruh produk kami—mulai dari croissant 
   yang renyah di luar dan lembut di dalam, roti tawar empuk, hingga olahan roti manis—dibuat menggunakan bahan-bahan alami 
   pilihan tanpa bahan pengawet. Dipanggang segar setiap pagi untuk memastikan cita rasa terbaik sampai di tangan Anda.
 
-
 Tujuan
-  Mempermudah Pembelian Bakery, Menyajikan Kualitas Terbaik
-
-
+  Mempermudah Pembelian Roti, Menyajikan Kualitas Terbaik, Kesegaran Setiap Hari
 
 Fitur
   - Beranda
@@ -19,16 +23,21 @@ Fitur
   - Kontak
   - Hubungi Kami 
 
-History
-    
-
-
 Header
-
+  - Menu Navigasi : Beranda, Produk, Tentang Kami
+  - Judul Utama : Roti Lezat, Setiap Hari
+  - Sub-Judul : Roti segar dengan bahan pilihan terbaik, dibuat setiap hari untuk keluarga anda.
+  - Tombol Aksi : Pesan Sekarang dan Lihat Promo
 
 Bahasa Pembrograman yang dibuat
   - Next Js
   - Typescript
   - Javascript
+
+Kesimpulan
+  Proyek website Bakerysn merupakan platform digital modern yang dirancang untuk menghadirkan pengalaman belanja roti dan 
+  pastry berkualitas tinggi secara praktis, cepat, dan nyaman.
+
+
 
 
