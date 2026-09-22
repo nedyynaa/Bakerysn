@@ -1,20 +1,26 @@
 import { Request, Response } from 'express';
 import { getAllProducts, getBakeryInfo } from '../services/bakery.service';
+import { sendResponse } from '../services/response.service';
 
 export function getProducts(req: Request, res: Response): void {
-  res.json({
+  sendResponse(res, {
     success: true,
-    data: getAllProducts()
+    msg: 'Products retrieved successfully',
+    data: getAllProducts(),
   });
 }
 
 export function getInfo(req: Request, res: Response): void {
-  res.json({
+  sendResponse(res, {
     success: true,
-    data: getBakeryInfo()
+    msg: 'Bakery info retrieved successfully',
+    data: getBakeryInfo(),
   });
 }
 
 export function getStatus(req: Request, res: Response): void {
-  res.send('Server Bakery Backend Aktif!');
+  sendResponse(res, {
+    success: true,
+    msg: 'Server Bakery Backend Aktif!',
+  });
 }
